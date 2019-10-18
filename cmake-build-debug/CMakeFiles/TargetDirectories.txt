@@ -1,0 +1,3 @@
+C:/Users/Zona Sviluppo/Desktop/Esercizio_1/cmake-build-debug/CMakeFiles/esercizio_uno.dir
+C:/Users/Zona Sviluppo/Desktop/Esercizio_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zona Sviluppo/Desktop/Esercizio_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

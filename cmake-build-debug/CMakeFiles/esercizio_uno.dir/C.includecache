@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Zona Sviluppo/Desktop/Esercizio_1/array_list.h
+stdlib.h
+-
+stdio.h
+-
+
+C:/Users/Zona Sviluppo/Desktop/Esercizio_1/list.h
+
+C:/Users/Zona Sviluppo/Desktop/Esercizio_1/main.c
+unity.h
+C:/Users/Zona Sviluppo/Desktop/Esercizio_1/unity.h
+unity_internals.h
+C:/Users/Zona Sviluppo/Desktop/Esercizio_1/unity_internals.h
+list.h
+C:/Users/Zona Sviluppo/Desktop/Esercizio_1/list.h
+array_list.h
+C:/Users/Zona Sviluppo/Desktop/Esercizio_1/array_list.h
+merge_sort.h
+C:/Users/Zona Sviluppo/Desktop/Esercizio_1/merge_sort.h
+stdio.h
+-
+stdlib.h
+-
+assert.h
+-
+
+C:/Users/Zona Sviluppo/Desktop/Esercizio_1/merge_sort.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+array_list.h
+C:/Users/Zona Sviluppo/Desktop/Esercizio_1/array_list.h
+list.h
+C:/Users/Zona Sviluppo/Desktop/Esercizio_1/list.h
+
+C:/Users/Zona Sviluppo/Desktop/Esercizio_1/unity.h
+unity_internals.h
+C:/Users/Zona Sviluppo/Desktop/Esercizio_1/unity_internals.h
+
+C:/Users/Zona Sviluppo/Desktop/Esercizio_1/unity_internals.h
+unity_config.h
+C:/Users/Zona Sviluppo/Desktop/Esercizio_1/unity_config.h
+setjmp.h
+-
+math.h
+-
+stdint.h
+-
+limits.h
+-
+stdio.h
+-
+stdio.h
+-
+
